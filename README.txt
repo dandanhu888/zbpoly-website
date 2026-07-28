@@ -1,20 +1,14 @@
-ZIBO POLY WEBSITE V4
+ZIBO POLY WEBSITE V5 — RESPONSIVE HERO
 
-Open index.html in a browser to preview.
+This version uses two separate hero images:
+- hero-products-desktop.png for desktop/tablet landscape
+- hero-products-mobile.png for phones
 
-Positioning:
+The browser automatically selects the correct image using <picture>.
+Upload ALL files in this folder together to the GitHub repository root.
+
+Core positioning:
 Better Products. Better Standards. Better Value.
 For a Better Everyday Life.
 
-Principles built into this version:
-- Finished consumer products, not industrial/raw-material positioning.
-- Manufacturing is treated as the foundation and never diminished.
-- No claim that Zibo Poly owns factories.
-- No cookware/tableware positioning.
-- No single product defines the company.
-- No invented scale, client, factory, country or SKU statistics.
-- Standards support better products; they are not presented as the purpose of the company.
-- Warm everyday-life positioning balanced with manufacturing, quality and commercial value.
-
-Contact:
-poly@zbpoly.com
+Contact: poly@zbpoly.com
